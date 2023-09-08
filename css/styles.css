@@ -185,6 +185,7 @@ select {
   font-size: 1rem;
   font-weight: 600;
   line-height: 1.5rem;
+  max-width: 475px;
 }
 @media only screen and (min-width: 576px) {
   .main .main__hero .hero__content-info p {
@@ -196,6 +197,7 @@ select {
   .main .main__hero .hero__content-info p {
     font-size: 1.5rem;
     line-height: 2rem;
+    max-width: 550px;
   }
 }
 .main .main__hero .hero__content-info p:first-of-type {

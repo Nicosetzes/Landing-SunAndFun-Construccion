@@ -31,6 +31,7 @@
         font-size: 1rem;
         font-weight: 600;
         line-height: 1.5rem;
+        max-width: 475px;
         @media only screen and (min-width: 576px) {
           font-size: 1.25rem;
           line-height: 1.75rem;
@@ -38,6 +39,7 @@
         @media only screen and (min-width: 992px) {
           font-size: 1.5rem;
           line-height: 2rem;
+          max-width: 550px;
         }
         &:first-of-type {
           font-size: 2.5rem;
